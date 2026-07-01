@@ -1,47 +1,49 @@
 # 🚀 AI-Powered Predictive Supply Chain Platform
 
+An end-to-end **Data Analytics & AI Forecasting** project that leverages **Excel, SQL, Python, Machine Learning, Power BI, and Tableau** to analyze supply chain operations, monitor logistics performance, and forecast future business outcomes.
+
+---
+
 ## 📌 Project Overview
 
-The **AI-Powered Predictive Supply Chain Platform** is an end-to-end data analytics and forecasting solution designed to improve supply chain decision-making using historical sales, inventory, supplier, and logistics data.
+Efficient supply chain management is essential for minimizing operational costs and improving customer satisfaction. This project provides interactive dashboards and predictive analytics to help businesses monitor inventory, evaluate supplier performance, track logistics, and forecast future demand and revenue.
 
-This project combines **Excel, SQL, Python, Machine Learning, Power BI, Tableau** to analyze business performance, monitor logistics operations, and forecast future demand, revenue, and inventory.
+The project follows a complete analytics workflow:
 
----
-
-## 🎯 Business Problem
-
-Supply chain organizations often struggle with:
-
-- Inventory shortages
-- Overstocking
-- Delayed deliveries
-- Supplier performance tracking
-- Revenue forecasting
-- Demand prediction
-
-This project provides interactive dashboards and AI-powered forecasting to help businesses make smarter inventory and logistics decisions.
+**Excel → Python → Machine Learning → SQL → Power BI → Tableau**
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 Objectives
+
+- Analyze supply chain performance using interactive dashboards.
+- Monitor inventory across warehouses.
+- Track supplier and logistics performance.
+- Forecast future demand, revenue, and inventory using AI.
+- Support data-driven business decisions.
+
+---
+
+# 🛠️ Technologies Used
 
 | Technology | Purpose |
-|------------|----------|
-| Microsoft Excel | Data Cleaning & Preparation |
-| SQL | Data Extraction & Analysis |
-| Python | Data Processing & Forecasting |
-| Pandas | Data Manipulation |
-| Scikit-Learn | Machine Learning |
-| Power BI | Interactive Dashboard |
-| Tableau | Business Visualization |
+|------------|---------|
+| 📊 Excel | Data Cleaning & Preparation |
+| 🗄 SQL | Data Analysis & Querying |
+| 🐍 Python | Data Processing & Machine Learning |
+| 📈 Power BI | Interactive Dashboard Development |
+| 📉 Tableau | Business Visualization |
+| 🤖 Scikit-learn | Predictive Modeling |
+| 🐼 Pandas | Data Manipulation |
+| 🔢 NumPy | Numerical Computing |
 
 ---
 
-# 📂 Project Structure
+# 📂 Project Files
 
 ```
-AI-Powered Predictive Supply Chain Platform
-│
+📁 AI-Powered Predictive Supply Chain Platform
+
 ├── AI Powered Predictive Supply Chain Platform.xlsx
 ├── AI_Processed_Supply_Chain.xlsx
 ├── AI-Powered Predictive Supply Chain Platform.sql
@@ -53,16 +55,16 @@ AI-Powered Predictive Supply Chain Platform
 
 ---
 
-# 📊 Dashboard Pages
+# 📊 Dashboard Overview
 
-## 1️⃣ Executive Summary & Inventory Analysis
+## 📌 Executive Summary & Inventory Analysis
 
 ### KPIs
 
-- Total Orders
-- Total Revenue
-- Total Profit
-- Average Inventory
+- 📦 Total Orders: **10K**
+- 💰 Total Revenue: **26M**
+- 📈 Total Profit: **23M**
+- 📊 Average Inventory: **504**
 
 ### Visualizations
 
@@ -73,21 +75,21 @@ AI-Powered Predictive Supply Chain Platform
 
 ### Filters
 
-- Date
+- Order Date
 - Region
 - Product
 - Warehouse
 
 ---
 
-## 2️⃣ Supplier Analysis & Logistics
+## 🚚 Supplier Analysis & Logistics Analysis
 
 ### KPIs
 
-- Average Shipping Cost
-- Delivered Orders
-- Delayed Orders
-- Cancellation Rate
+- Average Shipping Cost: **259**
+- Delivered Orders: **2564**
+- Delayed Orders: **2488**
+- Cancellation Rate: **25**
 
 ### Visualizations
 
@@ -102,13 +104,13 @@ AI-Powered Predictive Supply Chain Platform
 - Region
 - Warehouse
 - Delivery Status
-- Category
+- Product Category
 
 ---
 
-## 3️⃣ AI Forecasting
+## 🤖 AI Forecasting
 
-Machine Learning forecasting for:
+Machine Learning models are used to forecast:
 
 - Future Revenue
 - Product Demand
@@ -116,419 +118,50 @@ Machine Learning forecasting for:
 
 ### KPIs
 
-- Forecast Demand
-- Inventory Risk
-- Predicted Revenue
-- Revenue Growth %
+- Forecast Demand: **316**
+- Inventory Risk: **924**
+- Predicted Revenue: **28.72M**
+- Revenue Growth %: **12**
 
 ---
 
-# 🤖 Machine Learning
+# 🤖 Machine Learning Workflow
 
-Forecasting models were used to predict:
-
-- Sales
-- Inventory
-- Product Demand
-
-Libraries Used
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Revenue Forecasting
+- Demand Forecasting
+- Inventory Forecasting
+- Business Insight Generation
 
 ---
 
 # 📈 Key Business Insights
 
-✔ Revenue exceeded **26 Million**
-
-✔ Profit reached **23 Million**
-
-✔ West Region generated the highest revenue.
-
-✔ Warehouse D maintained the highest inventory.
-
-✔ AI forecasting predicts continued revenue growth.
-
-✔ Delivery performance remains balanced across all regions.
-
-✔ Supplier performance can be monitored using interactive dashboards.
+- Generated over **26 Million** in total revenue.
+- Achieved **23 Million** in total profit.
+- **West Region** recorded the highest sales.
+- Warehouse inventory levels are monitored in real time.
+- Supplier performance is evaluated through logistics metrics.
+- AI forecasting predicts future revenue and demand trends.
+- Interactive filters enable detailed business analysis.
 
 ---
 
-# 📊 Features
+# ✨ Features
 
 - Interactive Power BI Dashboard
-- Dynamic Filters
+- Tableau Dashboard
 - Executive KPI Monitoring
 - Inventory Analysis
 - Supplier Performance Analysis
-- Logistics Monitoring
-- Demand Forecasting
-- Revenue Forecasting
+- Logistics Tracking
+- Revenue Trend Analysis
+- AI-Based Demand Forecasting
 - Inventory Forecasting
 - SQL Analytics
-- Python Data Processing
-
----
-
-# 📸 Dashboard Preview
-
-## Executive Summary
-
-> Add Sc# 🚀 AI-Powered Predictive Supply Chain Platform
-
-## 📌 Project Overview
-
-The **AI-Powered Predictive Supply Chain Platform** is an end-to-end data analytics and forecasting solution designed to improve supply chain decision-making using historical sales, inventory, supplier, and logistics data.
-
-This project combines **Excel, SQL, Python, Machine Learning, and Power BI** to analyze business performance, monitor logistics operations, and forecast future demand, revenue, and inventory.
-
----
-
-## 🎯 Business Problem
-
-Supply chain organizations often struggle with:
-
-- Inventory shortages
-- Overstocking
-- Delayed deliveries
-- Supplier performance tracking
-- Revenue forecasting
-- Demand prediction
-
-This project provides interactive dashboards and AI-powered forecasting to help businesses make smarter inventory and logistics decisions.
-
----
-
-# 🛠 Tech Stack
-
-| Technology | Purpose |
-|------------|----------|
-| Microsoft Excel | Data Cleaning & Preparation |
-| SQL | Data Extraction & Analysis |
-| Python | Data Processing & Forecasting |
-| Pandas | Data Manipulation |
-| Scikit-Learn | Machine Learning |
-| Power BI | Interactive Dashboard |
-| Tableau | Business Visualization |
-
----
-
-# 📂 Project Structure
-
-```
-AI-Powered Predictive Supply Chain Platform
-│
-├── AI Powered Predictive Supply Chain Platform.xlsx
-├── AI_Processed_Supply_Chain.xlsx
-├── AI-Powered Predictive Supply Chain Platform.sql
-├── AI_Processed_Supply_Chain.ipynb
-├── AI-Powered Predictive Supply Chain Platform.pbix
-├── AI-Powered Predictive Supply Chain Platform.twb
-└── README.md
-```
-
----
-
-# 📊 Dashboard Pages
-
-## 1️⃣ Executive Summary & Inventory Analysis
-
-### KPIs
-
-- Total Orders
-- Total Revenue
-- Total Profit
-- Average Inventory
-
-### Visualizations
-
-- Revenue Trend
-- Top Performing Regions
-- Inventory Level by Warehouse
-- Product Inventory Report
-
-### Filters
-
-- Date
-- Region
-- Product
-- Warehouse
-
----
-
-## 2️⃣ Supplier Analysis & Logistics
-
-### KPIs
-
-- Average Shipping Cost
-- Delivered Orders
-- Delayed Orders
-- Cancellation Rate
-
-### Visualizations
-
-- Supplier Revenue
-- Delivery Status
-- Shipping Cost Trend
-- Region-wise Shipping Cost
-
-### Filters
-
-- Supplier
-- Region
-- Warehouse
-- Delivery Status
-- Category
-
----
-
-## 3️⃣ AI Forecasting
-
-Machine Learning forecasting for:
-
-- Future Revenue
-- Product Demand
-- Inventory Levels
-
-### KPIs
-
-- Forecast Demand
-- Inventory Risk
-- Predicted Revenue
-- Revenue Growth %
-
----
-
-# 🤖 Machine Learning
-
-Forecasting models were used to predict:
-
-- Sales
-- Inventory
-- Product Demand
-
-Libraries Used
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
----
-
-# 📈 Key Business Insights
-
-✔ Revenue exceeded **26 Million**
-
-✔ Profit reached **23 Million**
-
-✔ West Region generated the highest revenue.
-
-✔ Warehouse D maintained the highest inventory.
-
-✔ AI forecasting predicts continued revenue growth.
-
-✔ Delivery performance remains balanced across all regions.
-
-✔ Supplier performance can be monitored using interactive dashboards.
-
----
-
-# 📊 Features
-
-- Interactive Power BI Dashboard
-- Dynamic Filters
-- Executive KPI Monitoring
-- Inventory Analysis
-- Supplier Performance Analysis
-- Logistics Monitoring
-- Demand Forecasting
-- Revenue Forecasting
-- Inventory Forecasting
-- SQL Analytics
-- Python Data Processing
-
----
-
-# 📸 Dashboard Preview
-
-## Executive Summary# 🚀 AI-Powered Predictive Supply Chain Platform
-
-## 📌 Project Overview
-
-The **AI-Powered Predictive Supply Chain Platform** is an end-to-end data analytics and forecasting solution designed to improve supply chain decision-making using historical sales, inventory, supplier, and logistics data.
-
-This project combines **Excel, SQL, Python, Machine Learning, and Power BI** to analyze business performance, monitor logistics operations, and forecast future demand, revenue, and inventory.
-
----
-
-## 🎯 Business Problem
-
-Supply chain organizations often struggle with:
-
-- Inventory shortages
-- Overstocking
-- Delayed deliveries
-- Supplier performance tracking
-- Revenue forecasting
-- Demand prediction
-
-This project provides interactive dashboards and AI-powered forecasting to help businesses make smarter inventory and logistics decisions.
-
----
-
-# 🛠 Tech Stack
-
-| Technology | Purpose |
-|------------|----------|
-| Microsoft Excel | Data Cleaning & Preparation |
-| SQL | Data Extraction & Analysis |
-| Python | Data Processing & Forecasting |
-| Pandas | Data Manipulation |
-| Scikit-Learn | Machine Learning |
-| Power BI | Interactive Dashboard |
-| Tableau | Business Visualization |
-
----
-
-# 📂 Project Structure
-
-```
-AI-Powered Predictive Supply Chain Platform
-│
-├── AI Powered Predictive Supply Chain Platform.xlsx
-├── AI_Processed_Supply_Chain.xlsx
-├── AI-Powered Predictive Supply Chain Platform.sql
-├── AI_Processed_Supply_Chain.ipynb
-├── AI-Powered Predictive Supply Chain Platform.pbix
-├── AI-Powered Predictive Supply Chain Platform.twb
-└── README.md
-```
-
----
-
-# 📊 Dashboard Pages
-
-## 1️⃣ Executive Summary & Inventory Analysis
-
-### KPIs
-
-- Total Orders
-- Total Revenue
-- Total Profit
-- Average Inventory
-
-### Visualizations
-
-- Revenue Trend
-- Top Performing Regions
-- Inventory Level by Warehouse
-- Product Inventory Report
-
-### Filters
-
-- Date
-- Region
-- Product
-- Warehouse
-
----
-
-## 2️⃣ Supplier Analysis & Logistics
-
-### KPIs
-
-- Average Shipping Cost
-- Delivered Orders
-- Delayed Orders
-- Cancellation Rate
-
-### Visualizations
-
-- Supplier Revenue
-- Delivery Status
-- Shipping Cost Trend
-- Region-wise Shipping Cost
-
-### Filters
-
-- Supplier
-- Region
-- Warehouse
-- Delivery Status
-- Category
-
----
-
-## 3️⃣ AI Forecasting
-
-Machine Learning forecasting for:
-
-- Future Revenue
-- Product Demand
-- Inventory Levels
-
-### KPIs
-
-- Forecast Demand
-- Inventory Risk
-- Predicted Revenue
-- Revenue Growth %
-
----
-
-# 🤖 Machine Learning
-
-Forecasting models were used to predict:
-
-- Sales
-- Inventory
-- Product Demand
-
-Libraries Used
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
----
-
-# 📈 Key Business Insights
-
-✔ Revenue exceeded **26 Million**
-
-✔ Profit reached **23 Million**
-
-✔ West Region generated the highest revenue.
-
-✔ Warehouse D maintained the highest inventory.
-
-✔ AI forecasting predicts continued revenue growth.
-
-✔ Delivery performance remains balanced across all regions.
-
-✔ Supplier performance can be monitored using interactive dashboards.
-
----
-
-# 📊 Features
-
-- Interactive Power BI Dashboard
-- Dynamic Filters
-- Executive KPI Monitoring
-- Inventory Analysis
-- Supplier Performance Analysis
-- Logistics Monitoring
-- Demand Forecasting
-- Revenue Forecasting
-- Inventory Forecasting
-- SQL Analytics
-- Python Data Processing
+- Machine Learning Predictions
 
 ---
 
@@ -536,496 +169,92 @@ Libraries Used
 
 ## Executive Summary & Inventory Analysis
 
-# 🚀 AI-Powered Predictive Supply Chain Platform
+> <img width="1357" height="741" alt="Screenshot 2026-07-01 130731" src="https://github.com/user-attachments/assets/4cf2dade-13de-4789-82bc-1e99a8a7cc07" />
 
-## 📌 Project Overview
 
-The **AI-Powered Predictive Supply Chain Platform** is an end-to-end data analytics and forecasting solution designed to improve supply chain decision-making using historical sales, inventory, supplier, and logistics data.
+## Supplier Analysis & Logistics
 
-This project combines **Excel, SQL, Python, Machine Learning, and Power BI** to analyze business performance, monitor logistics operations, and forecast future demand, revenue, and inventory.
+> <img width="1382" height="802" alt="Screenshot 2026-07-01 130812" src="https://github.com/user-attachments/assets/759fc88e-a5c6-41dc-9360-6548e4545fd0" />
 
----
 
-## 🎯 Business Problem
+## AI Forecasting
 
-Supply chain organizations often struggle with:
+> <img width="1382" height="802" alt="Screenshot 2026-07-01 130812" src="https://github.com/user-attachments/assets/0f095f12-e46e-44d9-8ad1-34fbb88c2fb0" />
 
-- Inventory shortages
-- Overstocking
-- Delayed deliveries
-- Supplier performance tracking
-- Revenue forecasting
-- Demand prediction
 
-This project provides interactive dashboards and AI-powered forecasting to help businesses make smarter inventory and logistics decisions.
+## Executive Key Insight
 
----
+> <img width="1378" height="802" alt="Screenshot 2026-07-01 130904" src="https://github.com/user-attachments/assets/fd5306b9-7fba-4f1e-8ef2-5d7b306dd558" />
 
-# 🛠 Tech Stack
 
-| Technology | Purpose |
-|------------|----------|
-| Microsoft Excel | Data Cleaning & Preparation |
-| SQL | Data Extraction & Analysis |
-| Python | Data Processing & Forecasting |
-| Pandas | Data Manipulation |
-| Scikit-Learn | Machine Learning |
-| Power BI | Interactive Dashboard |
-| Tableau | Business Visualization |
+# 📊 Dataset
 
----
+The dataset includes:
 
-# 📂 Project Structure
-
-```
-AI-Powered Predictive Supply Chain Platform
-│
-├── AI Powered Predictive Supply Chain Platform.xlsx
-├── AI_Processed_Supply_Chain.xlsx
-├── AI-Powered Predictive Supply Chain Platform.sql
-├── AI_Processed_Supply_Chain.ipynb
-├── AI-Powered Predictive Supply Chain Platform.pbix
-├── AI-Powered Predictive Supply Chain Platform.twb
-└── README.md
-```
-
----
-
-# 📊 Dashboard Pages
-
-## 1️⃣ Executive Summary & Inventory Analysis
-
-### KPIs
-
-- Total Orders
-- Total Revenue
-- Total Profit
-- Average Inventory
-
-### Visualizations
-
-- Revenue Trend
-- Top Performing Regions
-- Inventory Level by Warehouse
-- Product Inventory Report
-
-### Filters
-
-- Date
-- Region
-- Product
-- Warehouse
-
----
-
-## 2️⃣ Supplier Analysis & Logistics
-
-### KPIs
-
-- Average Shipping Cost
-- Delivered Orders
-- Delayed Orders
-- Cancellation Rate
-
-### Visualizations
-
-- Supplier Revenue
-- Delivery Status
-- Shipping Cost Trend
-- Region-wise Shipping Cost
-
-### Filters
-
-- Supplier
-- Region
-- Warehouse
-- Delivery Status
-- Category
-
----
-
-## 3️⃣ AI Forecasting
-
-Machine Learning forecasting for:
-
-- Future Revenue
-- Product Demand
+- Orders
+- Products
+- Categories
+- Suppliers
+- Warehouses
+- Regions
 - Inventory Levels
-
-### KPIs
-
-- Forecast Demand
-- Inventory Risk
-- Predicted Revenue
-- Revenue Growth %
-
----
-
-# 🤖 Machine Learning
-
-Forecasting models were used to predict:
-
-- Sales
-- Inventory
-- Product Demand
-
-Libraries Used
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
----
-
-# 📈 Key Business Insights
-
-✔ Revenue exceeded **26 Million**
-
-✔ Profit reached **23 Million**
-
-✔ West Region generated the highest revenue.
-
-✔ Warehouse D maintained the highest inventory.
-
-✔ AI forecasting predicts continued revenue growth.
-
-✔ Delivery performance remains balanced across all regions.
-
-✔ Supplier performance can be monitored using interactive dashboards.
-
----
-
-# 📊 Features
-
-- Interactive Power BI Dashboard
-- Dynamic Filters
-- Executive KPI Monitoring
-- Inventory Analysis
-- Supplier Performance Analysis
-- Logistics Monitoring
-- Demand Forecasting
-- Revenue Forecasting
-- Inventory Forecasting
-- SQL Analytics
-- Python Data Processing
-
----
-
-# 📸 Dashboard Preview
-
-## Executive Summary & Inventory Analysis
-
-> <img width="1357" height="741" alt="Screenshot 2026-07-01 130731" src="https://github.com/user-attachments/assets/4443f7bb-8ca5-4039-ba37-5b7e1faf59a2" />
-
-
-## Supplier Analysis & Logistics Analysis
-
-> <img width="1378" height="786" alt="Screenshot 2026-07-01 133216" src="https://github.com/user-attachments/assets/521e9f14-7a8c-4f50-a3fc-31f8638994bb" />
-
-
-
-## AI Forecasting
-
-> <img width="1410" height="808" alt="Screenshot 2026-07-01 130834" src="https://github.com/user-attachments/assets/e454f8e4-b118-456f-915a-27895dfc5cc5" />
-
-
- 
-## Executive Key Insights
-
-> <img width="1378" height="802" alt="Screenshot 2026-07-01 130904" src="https://github.com/user-attachments/assets/4b6cd617-3fb8-46a0-92d2-4a2d45a71362" />
-
-
----
-
-# 📁 Dataset
-
-The project uses a synthetic supply chain dataset containing information on:
-
-- Orders
-- Products
-- Inventory
-- Suppliers
-- Warehouses
-- Regions
-- Shipping
+- Shipping Cost
+- Delivery Status
 - Revenue
 - Profit
-- Demand
+- Demand Forecast
 
 ---
 
-# 🚀 How to Run
+# 🚀 Getting Started
 
-### Clone Repository
+## Clone Repository
 
 ```bash
 git clone https://github.com/Harshiniravi-20/AI-Powered-Predictive-Supply-Chain-Platform.git
 ```
 
-### Open
+## Open Project Files
 
 - Excel Dataset
-- SQL File
+- SQL Script
 - Python Notebook
-- Power BI Dashboard
+- Power BI Dashboard (.pbix)
+- Tableau Workbook (.twb)
 
 ---
 
-# 💡 Skills Demonstrated
+# 💼 Skills Demonstrated
 
 - Data Cleaning
-- Data Visualization
-- SQL Query Writing
+- SQL Query Optimization
+- Python Programming
 - Dashboard Development
-- KPI Design
-- Machine Learning
-- Time Series Forecasting
-- Supply Chain Analytics
 - Business Intelligence
+- KPI Reporting
+- Machine Learning
+- Predictive Analytics
+- Supply Chain Analytics
 - Data Storytelling
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 About Me
 
 **Harshini Ravi**
 
-### LinkedIn
+Aspiring **AI Data Analyst** passionate about transforming raw data into meaningful business insights through analytics, visualization, and machine learning.
+
+### 🔗 LinkedIn
 
 https://www.linkedin.com/in/harshini-ravi-124150273
 
-### GitHub
+### 💻 GitHub
 
 https://github.com/Harshiniravi-20
 
 ---
 
-⭐ If you found this project useful, don't forget to star this repository!> Add Screenshot
+## ⭐ Support
 
-## Supplier Analysis
-
-> Add Screenshot
-
-## AI Forecasting
-
-> Add Screenshot
-
----
-
-# 📁 Dataset
-
-The project uses a synthetic supply chain dataset containing information on:
-
-- Orders
-- Products
-- Inventory
-- Suppliers
-- Warehouses
-- Regions
-- Shipping
-- Revenue
-- Profit
-- Demand
-
----
-
-# 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Harshiniravi-20/AI-Powered-Predictive-Supply-Chain-Platform.git
-```
-
-### Open
-
-- Excel Dataset
-- SQL File
-- Python Notebook
-- Power BI Dashboard
-
----
-
-# 💡 Skills Demonstrated
-
-- Data Cleaning
-- Data Visualization
-- SQL Query Writing
-- Dashboard Development
-- KPI Design
-- Machine Learning
-- Time Series Forecasting
-- Supply Chain Analytics
-- Business Intelligence
-- Data Storytelling
-
----
-
-# 👩‍💻 Author
-
-**Harshini Ravi**
-
-### LinkedIn
-
-https://www.linkedin.com/in/harshini-ravi-124150273
-
-### GitHub
-
-https://github.com/Harshiniravi-20
-
----
-
-⭐ If you found this project useful, don't forget to star this repository!
-
-> Add Screenshot
-
-## Supplier Analysis
-
-> Add Screenshot
-
-## AI Forecasting
-
-> Add Screenshot
-
----
-
-# 📁 Dataset
-
-The project uses a synthetic supply chain dataset containing information on:
-
-- Orders
-- Products
-- Inventory
-- Suppliers
-- Warehouses
-- Regions
-- Shipping
-- Revenue
-- Profit
-- Demand
-
----
-
-# 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Harshiniravi-20/AI-Powered-Predictive-Supply-Chain-Platform.git
-```
-
-### Open
-
-- Excel Dataset
-- SQL File
-- Python Notebook
-- Power BI Dashboard
-
----
-
-# 💡 Skills Demonstrated
-
-- Data Cleaning
-- Data Visualization
-- SQL Query Writing
-- Dashboard Development
-- KPI Design
-- Machine Learning
-- Time Series Forecasting
-- Supply Chain Analytics
-- Business Intelligence
-- Data Storytelling
-
----
-
-# 👩‍💻 Author
-
-**Harshini Ravi**
-
-### LinkedIn
-
-https://www.linkedin.com/in/harshini-ravi-124150273
-
-### GitHub
-
-https://github.com/Harshiniravi-20
-
----
-
-⭐ If you found this project useful, don't forget to star this repository!reenshot
-
-## Supplier Analysis
-
-> Add Screenshot
-
-## AI Forecasting
-
-> Add Screenshot
-
----
-
-# 📁 Dataset
-
-The project uses a synthetic supply chain dataset containing information on:
-
-- Orders
-- Products
-- Inventory
-- Suppliers
-- Warehouses
-- Regions
-- Shipping
-- Revenue
-- Profit
-- Demand
-
----
-
-# 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Harshiniravi-20/AI-Powered-Predictive-Supply-Chain-Platform.git
-```
-
-### Open
-
-- Excel Dataset
-- SQL File
-- Python Notebook
-- Power BI Dashboard
-
----
-
-# 💡 Skills Demonstrated
-
-- Data Cleaning
-- Data Visualization
-- SQL Query Writing
-- Dashboard Development
-- KPI Design
-- Machine Learning
-- Time Series Forecasting
-- Supply Chain Analytics
-- Business Intelligence
-- Data Storytelling
-
----
-
-# 👩‍💻 Author
-
-**Harshini Ravi**
-
-### LinkedIn
-
-https://www.linkedin.com/in/harshini-ravi-124150273
-
-### GitHub
-
-https://github.com/Harshiniravi-20
-
----
-
-⭐ If you found this project useful, don't forget to star this repository!
+If you found this project helpful, please consider **starring ⭐ the repository**.
