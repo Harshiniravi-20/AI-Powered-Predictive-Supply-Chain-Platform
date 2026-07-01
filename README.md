@@ -184,7 +184,8 @@ Machine Learning models are used to forecast:
 
 ## Executive Key Insight
 
-> <img width="1378" height="802" alt="Screenshot 2026-07-01 130904" src="https://github.com/user-attachments/assets/fd5306b9-7fba-4f1e-8ef2-5d7b306dd558" />
+> <img width="1412" height="852" alt="Screenshot 2026-07-01 135111" src="https://github.com/user-attachments/assets/c0d61b54-d86d-43cb-816c-3755bc30bcb9" />
+
 
 
 # 📊 Dataset
