@@ -730,6 +730,12 @@ Libraries Used
 > <img width="1410" height="808" alt="Screenshot 2026-07-01 130834" src="https://github.com/user-attachments/assets/e454f8e4-b118-456f-915a-27895dfc5cc5" />
 
 
+ 
+## Executive Key Insights
+
+> <img width="1378" height="802" alt="Screenshot 2026-07-01 130904" src="https://github.com/user-attachments/assets/4b6cd617-3fb8-46a0-92d2-4a2d45a71362" />
+
+
 ---
 
 # 📁 Dataset
