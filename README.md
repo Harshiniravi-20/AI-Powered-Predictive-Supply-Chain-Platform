@@ -721,7 +721,8 @@ Libraries Used
 
 ## Supplier Analysis & Logistics Analysis
 
-> <img width="1382" height="802" alt="Screenshot 2026-07-01 130812" src="https://github.com/user-attachments/assets/0182b1ff-9341-48e5-85b6-4f9b2d84fada" />
+> <img width="1378" height="786" alt="Screenshot 2026-07-01 133216" src="https://github.com/user-attachments/assets/521e9f14-7a8c-4f50-a3fc-31f8638994bb" />
+
 
 
 ## AI Forecasting
