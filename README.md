@@ -4,7 +4,7 @@
 
 The **AI-Powered Predictive Supply Chain Platform** is an end-to-end data analytics and forecasting solution designed to improve supply chain decision-making using historical sales, inventory, supplier, and logistics data.
 
-This project combines **Excel, SQL, Python, Machine Learning, and Power BI** to analyze business performance, monitor logistics operations, and forecast future demand, revenue, and inventory.
+This project combines **Excel, SQL, Python, Machine Learning, Power BI, Tableau** to analyze business performance, monitor logistics operations, and forecast future demand, revenue, and inventory.
 
 ---
 
