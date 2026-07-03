@@ -179,7 +179,7 @@ Machine Learning models are used to forecast:
 
 ## AI Forecasting
 
-> <img width="1382" height="802" alt="Screenshot 2026-07-01 130812" src="https://github.com/user-attachments/assets/0f095f12-e46e-44d9-8ad1-34fbb88c2fb0" />
+> <img width="1410" height="808" alt="Screenshot 2026-07-01 130834" src="https://github.com/user-attachments/assets/ce47c97e-7b11-4743-9986-49721a8fad0f" />
 
 
 ## Executive Key Insight
